@@ -1,11 +1,5 @@
-import About from '@/components/About'
-import WorkExperience from '@/components/WorkExperience'
 
-import Header from '@/components/Header'
-import Hero from '@/components/Hero'
-import Projects from '@/components/Projects'
 
-import Skills from '@/components/Skills'
 import {NextStudio} from 'next-sanity/studio'
 import {StudioProvider, StudioLayout} from 'sanity'
 
